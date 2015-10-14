@@ -1,0 +1,7 @@
+<?php
+/**
+ * @file
+ * Code for the Questions feature.
+ */
+
+include_once 'questions.features.inc';
