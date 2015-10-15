@@ -1,3 +1,9 @@
+database username: admin_opinion 
+password: epicodus
+
+site username: admin
+password: epicodus
+
 
 CONTENTS OF THIS FILE
 ---------------------
